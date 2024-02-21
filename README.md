@@ -2,12 +2,12 @@
 test file
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield][contributors-url]
-[!Forks][fork-shield][fork-url]
-[![Stargazers][stars-shield][stars-url]
-[![Issues][issues-shield][stars-url]
-[!MIT license][license-shield][license-url]
-[!LinkedIn][linkedin-shield][linkedin-url]
+[![Contributors][contributors-shield]][contributors-url]
+[!Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][stars-url]
+[![MIT license][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
