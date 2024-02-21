@@ -3,11 +3,24 @@ test file
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
-[!Forks][forks-shield]][forks-url]
+[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][stars-url]
 [![MIT license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+<br>
+<div>
+  <a> pagariya connect sucessfully</a>
+  <img src=https://static.toiimg.com/thumb/msid-104375923,width-1280,height-720,resizemode-4/104375923.jpg>
+</div>
+
+<ol>
+  <li>
+    <a> the game</a>
+    <ui>
+  </li>
+</ol>
 
 
 
